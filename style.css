@@ -1,0 +1,51 @@
+#section1{
+    height:50px;
+    width: 100%;
+    font-size: 17px;
+    justify-content: center;
+    color: white;
+    background-color: rgb(36, 13, 13);
+    position:fixed;
+    display: flex;
+}
+.navb{
+    justify-content: center;
+    margin-left: 50px;
+}
+.fa-solidfa-image{
+    margin-right: 50px ;
+    color: #29d9d5;
+}
+.btn1{
+    margin-left: 50px;
+}
+.btn1.hower{
+    background-color: #29d9d5;
+
+}
+span{
+    margin: 10px;
+}
+body{
+    background-color: white;
+}
+.sec2{
+    background-color: plum;
+}
+#h1{
+    color: blue;
+}
+#images2{
+    height: 60px;
+    width: 60px;
+}
+#images > div{
+
+}
+#bo{
+    min-height: 100vh;
+    align-items: center;
+    background: url('https://pixabay.com/link/?ua=cd3%3Dimage%26cd7%3Den%253Anature%253AIND%26ec%3Dapi_ad%26ea%3Dnavigate%26el%3Dgetty%26tid%3DUA-20223345-1%26dr%3Dhttps%253A%252F%252Fwww.google.com%252F&next=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Fmountains-in-low-dense-fog-at-morning-sunrise-beautiful-landscape-with-mountain-gm1411846592-461518022%3Futm_source%3Dpixabay%26utm_medium%3Daffiliate%26utm_campaign%3DSRP_image_sponsored%26utm_content%3Dhttps%253A%252F%252Fpixabay.com%252Fimages%252Fsearch%252Fnature%252F%26utm_term%3Dnature&hash=fa87edf32977815fd0f9641d0697121f5179a690&=') no-repeat;
+    /* background-size: cover;
+    background-position: center; */
+}
